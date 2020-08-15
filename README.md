@@ -1,6 +1,6 @@
 # display_7_digitos_com_potenciometro
 
-Projeto de exemplo de uso do arduino usando potenciometro para exibir valor de 0 a 9 em um display de 7 segmentos.
+Projeto de exemplo de uso do arduino usando potenciômetro para exibir valor de 0 a 9 em um display de 7 segmentos.
 
 Ligação de portas:
 
